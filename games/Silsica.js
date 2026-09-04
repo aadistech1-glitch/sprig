@@ -2,7 +2,13 @@
 // SILSIKA - PORTAL PUZZLE ESCAPE
 // Made for Hack Club Sprig
 // ============================================================================
-
+/*
+@title: Silsika
+@author: Aadi Vinayak
+@description: A portal-based maze escape game.
+@tags: ['puzzle', 'portal', 'maze']
+@addedOn: 2026-09-04
+*/
 // --- 1. SPRITE KEYS ---
 const player = "p";
 const wall = "w";
